@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-image: url('https://img5.goodfon.com/wallpaper/nbig/9/52/lines-light-road-night.jpg');
+  color : white
+}
+h1{
+  font-family: cursive;
+}
+
+button {
+  height: 40px;
+  width: 65px;
+  background-color: rgb(247, 107, 82);
+  border-radius: 5px;
+  outline: none;
+}
+button:hover{
+  background-color: rgb(253, 253, 253);
+  
+}
+input {
+  height: 30px;
+  width: 120px;
+}
+
+.App{
+  margin:500px;
+margin-top: 50px;
+padding: 10px;
+  width: 350px;
+  box-shadow: 3px 2px 4px 4px rgb(71, 71, 71);
+  border-radius: 10px;
+}
